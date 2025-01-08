@@ -1,4 +1,5 @@
 # Example-of-README
-An example of a repository
 
-Created by *Eirini Stavri*
+### This is my first repository as part of the Data Analyst seminar
+
+Created by **Eirini Stavri**
